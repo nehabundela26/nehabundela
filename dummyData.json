@@ -1,0 +1,20 @@
+[
+{
+'companyName':'Target 1',
+'companyInfo':'description',
+'status':'researching',
+'keyContact':'manager'
+},
+{
+'companyName':'Target 2',
+'companyInfo':'description',
+'status':'researching',
+'keyContact':'manager'
+},
+{
+'companyName':'Target 3',
+'companyInfo':'description',
+'status':'researching',
+'keyContact':'manager'
+}
+]
